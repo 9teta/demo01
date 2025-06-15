@@ -2,3 +2,6 @@ Roses are red
 Violets are blue
 Yellows in bed
 Greens go uuuuu
+
+Ice is cold
+Fire is hot
